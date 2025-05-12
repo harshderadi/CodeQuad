@@ -97,8 +97,8 @@ CodeQuad is licensed under the **MIT License**. See [LICENSE](LICENSE) for detai
 
 For any issues, suggestions, or feature requests, feel free to reach out:  
 
-👤 **Aviraj Bhaliya**  
-🔗 [LinkedIn](https://www.linkedin.com/in/aviraj-bhaliya-4483a7236)  
-📧 **Email:** avirajbhaliya@gmail.com  
+👤 **Harsh Deradi**  
+🔗 [LinkedIn](https://www.linkedin.com/in/harsh-deradi1)  
+📧 **Email:** harshderadi@gmail.com  
 
 ---
